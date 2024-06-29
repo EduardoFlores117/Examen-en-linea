@@ -294,8 +294,8 @@ footer button{
     outline: none;
     color: #fff;
     border-radius: 5px;
-    background: #007bff;
-    border: 1px solid #007bff;
+    background: #061262;
+    border: 1px solid #061262;
     line-height: 10px;
     opacity: 0;
     pointer-events: none;
@@ -304,7 +304,7 @@ footer button{
 }
 
 footer button:hover{
-    background: #0263ca;
+    background: #0a0a9e;
 }
 
 footer button.show{
